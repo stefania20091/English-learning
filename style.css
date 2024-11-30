@@ -1,0 +1,27 @@
+main{
+    margin-top: 80px;
+
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    height: 80px;
+    top: 0;
+}
+.menu img{
+    height: 50px;
+    width: 50px;
+    margin-left: 51px;
+    margin-top: 30px;
+    margin-bottom: 34px;
+}
+.menu button{
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 177px;
+
+}
